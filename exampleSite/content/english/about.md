@@ -1,5 +1,5 @@
 ---
-title : "KNOW MORE <br> ABOUT ME"
+title : "KNOW MORE <br> ABOUT MEDIEVALMEMES"
 image : "images/backgrounds/portrait.jpg"
 # button
 button:
@@ -13,21 +13,21 @@ experience:
   title : "ROADMAP"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
+    - name : "Crypto Edition"
+      company : "Release Date"
+      duration : "April 2021"
       content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
 
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
+    - name : "Gaming Edition"
+      company : "Release Date"
+      duration : "June 2021"
       content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
 
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
+    - name : "Random Edition"
+      company : "Release Date"
+      duration : "July 2021"
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
 
 ############################### Skill #################################
@@ -44,12 +44,12 @@ skill:
       percentage : "100%"
 
     # skill item loop
-    - name : "Database Management"
-      percentage : "90%"
+    - name : "Modern Knowledge"
+      percentage : "80%"
 
     # skill item loop
-    - name : "Knowledge"
-      percentage : "75%"
+    - name : "Medieval Knowledge"
+      percentage : "60%"
 
 
 # custom style
@@ -58,4 +58,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+Medievalmemes.co is a funny collection of free memes on Wax Blockchain. Focused on scarcity, there is a supply of 1000 NFT’s of each piece.

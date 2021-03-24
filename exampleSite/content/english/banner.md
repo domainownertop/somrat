@@ -19,13 +19,13 @@ slider_images:
 # button
 button:
   enable : true
-  label : "HIRE ME"
-  link : "#contact"
+  label : "COLLECTIONS"
+  link : "#portfolio"
 
 
 # custom style
-custom_class: "" 
-custom_attributes: "" 
+custom_class: ""
+custom_attributes: ""
 custom_css: ""
 
 ---
