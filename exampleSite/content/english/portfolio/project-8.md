@@ -1,12 +1,12 @@
 ---
-title: "The boom of NFT's"
+title: "The Weird Soldier"
 date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/10.webp"
+image: "images/portfolio/2.webp"
 categories: ["crypto"]
-description: "Drop Date"
+description: "Crypto Rules"
 draft: false
 project_info:
-- name: "Crypto Rules"
+- name: "The Weird Soldier"
   icon: "fas fa-link"
   content: "https://wax.atomichub.io/creator/collection/medievalmeme"
 ---
