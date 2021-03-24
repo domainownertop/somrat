@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
-title = "Somrat | Hugo Portfolio Template"
+baseURL = "https://www.medievalmemes.co"
+title = "Medieval Memes"
 theme = "somrat"
 # post pagination
 paginate = "6"
@@ -74,12 +74,8 @@ author = "somrat"
 [params.preloader]
 enable = true
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
-  
-############################# social site ########################
-[[params.social]]
-icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/somratpro"
 
+############################# social site ########################
 [[params.social]]
 icon = "fab fa-twitter"
 link = "https://twitter.com/somratpro"
@@ -87,10 +83,6 @@ link = "https://twitter.com/somratpro"
 [[params.social]]
 icon = "fab fa-instagram"
 link = "https://www.instagram.com/somratpro"
-
-[[params.social]]
-icon = "fab fa-github"
-link = "https://github.com/somratpro"
 
 [[params.social]]
 icon = "fab fa-linkedin"
@@ -105,7 +97,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2021 [medievalmemes.co](https://somrat.netlify.com)"
 
 
 ################# english navigation ##################

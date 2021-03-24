@@ -4,26 +4,26 @@ image : "images/backgrounds/portrait.jpg"
 # button
 button:
   enable : true
-  label : "DOWNLOAD MY CV"
+  label : "Collections"
   link : "#"
 
 ########################### Experience ##############################
 experience:
   enable : true
-  title : "EXPERIENCE"
+  title : "ROADMAP"
   experience_list:
     # experience item loop
     - name : "Web Developer"
       company : "Fiverr.com"
       duration : "2016-2018"
       content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
-      
+
     # experience item loop
     - name : "Graphic Designer"
       company : "Fiverr.com"
       duration : "2015-2018"
       content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
-      
+
     # experience item loop
     - name : "Database Manager"
       company : "Polytechnic"
@@ -33,28 +33,28 @@ experience:
 ############################### Skill #################################
 skill:
   enable : true
-  title : "SKILL"
+  title : "WHAT YOU WILL GET"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
-      
+    - name : "Fun"
+      percentage : "100%"
+
     # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
-      
+    - name : "Unique Items"
+      percentage : "100%"
+
     # skill item loop
     - name : "Database Management"
       percentage : "90%"
       
     # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
+    - name : "Knowledge"
+      percentage : "75%"
 
 
 # custom style
-custom_class: "" 
-custom_attributes: "" 
+custom_class: ""
+custom_attributes: ""
 custom_css: ""
 ---
 
