@@ -1,12 +1,12 @@
 ---
-title: "The Weird Soldier"
+title: "The end of painful fees"
 date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/82.webp"
+image: "images/portfolio/8.webp"
 categories: ["crypto"]
-description: "Crypto Rules"
+description: "The end of painful fees"
 draft: false
 project_info:
-- name: "The Weird Soldier"
+- name: "The end of painful fees"
   icon: "fas fa-link"
   content: "https://wax.atomichub.io/creator/collection/medievalmeme"
 ---
