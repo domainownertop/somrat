@@ -140,25 +140,13 @@ url = "/"
 weight = 1
 
 [[Languages.fr.menu.main]]
-name = "About me"
+name = "About"
 pre = "#"
 url = "about"
 weight = 2
 
 [[Languages.fr.menu.main]]
-name = "Service"
-pre = "#"
-url = "service"
-weight = 3
-
-[[Languages.fr.menu.main]]
-name = "Portfolio"
+name = "Collections"
 pre = "#"
 url = "portfolio"
-weight = 4
-
-[[Languages.fr.menu.main]]
-name = "Testimonial"
-pre = "#"
-url = "testimonial"
-weight = 5
+weight = 3
