@@ -1,5 +1,5 @@
 ---
-title : "KNOW MORE <br> ABOUT MEDIEVALMEMES"
+title : "KNOW MORE <br> ABOUT PROJECT"
 image : "images/backgrounds/portrait.jpg"
 # button
 button:
