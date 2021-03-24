@@ -244,8 +244,6 @@
 {{ end }}
 <!-- End About Me -->
 
-
-
 <!-- call to action -->
 {{ with .GetPage "call-to-action" }}
 <style>{{.Params.custom_css | safeCSS}}</style>
@@ -321,33 +319,6 @@
 </section>
 {{ end }}
 <!-- End Portfolio -->
-
-<!-- Start Testimonials -->
-{{ with .GetPage "testimonial"}}
-<style>{{.Params.custom_css | safeCSS}}</style>
-<section class="testimonials {{.Params.custom_class}}" {{.Params.custom_attributes | safeHTMLAttr}} id="testimonial">
-  <div class="container">
-    <div class="row">
-      <div class="testimonials-container col-lg-8 offset-lg-2">
-        <h1 class="wow fadeInUp" data-wow-duration="1.5s">{{ .Title | markdownify }}</h1>
-        <div class="owl-carousel owl-theme wow fadeInUp" data-wow-duration="1.5s">
-          {{ range .Params.testimonial_slider }}
-          <div class="single-testimonial">
-            <div class="testimonial-holder">
-              <img class="img-fluid" src="{{ .image | absURL }}" alt="{{ .name }}">
-              <h2>{{ .name }}</h2>
-              <span>{{ .designation | markdownify }}</span>
-              <p><i class="fa fa-quote-left"></i> {{ .content | markdownify }} <i class="fa fa-quote-right"></i></p>
-            </div>
-          </div>
-          {{ end }}
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-<!-- End Testimonials -->
 
 <!-- funfacts -->
 {{ with .GetPage "funfacts"}}
