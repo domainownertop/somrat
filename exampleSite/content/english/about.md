@@ -5,7 +5,7 @@ image : "images/backgrounds/portrait.jpg"
 button:
   enable : true
   label : "Collections"
-  link : "#"
+  link : "#portfolio"
 
 ########################### Experience ##############################
 experience:
@@ -46,7 +46,7 @@ skill:
     # skill item loop
     - name : "Database Management"
       percentage : "90%"
-      
+
     # skill item loop
     - name : "Knowledge"
       percentage : "75%"
