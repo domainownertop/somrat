@@ -8,5 +8,5 @@ draft: false
 project_info:
 - name: "Crypto Rules"
   icon: "fas fa-link"
-  content: "https://wax.atomichub.io/creator/collection/medievalmeme"
+  content: "https://wax.atomichub.io/creator/collection/medievlmemes"
 ---
