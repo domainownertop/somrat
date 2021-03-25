@@ -14,19 +14,19 @@ experience:
   experience_list:
     # experience item loop
     - name : "Crypto Edition"
-      company : "Release Date"
+      company : "Release Date:"
       duration : "April 2021"
       content : ""
 
     # experience item loop
     - name : "Gaming Edition"
-      company : "Release Date"
+      company : "Release Date:"
       duration : "June 2021"
       content : ""
 
     # experience item loop
     - name : "Random Edition"
-      company : "Release Date"
+      company : "Release Date:"
       duration : "July 2021"
       content : ""
 

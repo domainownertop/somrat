@@ -1,12 +1,12 @@
 ---
-title: "WSB Doge Pump"
-date: 2020-05-12T12:14:34+06:00
+title: "Pump It"
+date: 2020-04-06T12:14:34+06:00
 image: "images/portfolio/9.webp"
 categories: ["crypto"]
-description: "WSB Doge Pump"
+description: "Pump It"
 draft: false
 project_info:
-- name: "WSB Doge Pump"
+- name: "Pump It"
   icon: "fas fa-link"
   content: "https://wax.atomichub.io/creator/collection/medievalmeme"
 ---

@@ -1,12 +1,12 @@
 ---
-title: "The boom of NFT's"
-date: 2020-04-12T12:14:34+06:00
+title: "NFT Boom"
+date: 2020-04-05T12:14:34+06:00
 image: "images/portfolio/10.webp"
 categories: ["crypto"]
-description: "Drop Date"
+description: "NFT Boom"
 draft: false
 project_info:
-- name: "Drop Date"
+- name: "NFT Boom"
   icon: "fas fa-link"
   content: "https://wax.atomichub.io/creator/collection/medievalmeme"
 ---

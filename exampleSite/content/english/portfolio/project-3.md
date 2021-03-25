@@ -1,9 +1,9 @@
 ---
-title: "The end of painful fees"
-date: 2020-05-12T12:14:34+06:00
+title: "Painful fees"
+date: 2020-04-07T12:14:34+06:00
 image: "images/portfolio/8.webp"
 categories: ["crypto"]
-description: "The end of painful fees"
+description: "Painful fees"
 draft: false
 project_info:
 - name: "The end of painful fees"

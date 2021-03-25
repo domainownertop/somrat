@@ -1,6 +1,6 @@
 ---
 title: "Just Hodl"
-date: 2020-05-12T12:14:34+06:00
+date: 2020-04-08T12:14:34+06:00
 image: "images/portfolio/7.webp"
 categories: ["crypto"]
 description: "Just Hodl"
