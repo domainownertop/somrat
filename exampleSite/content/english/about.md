@@ -1,6 +1,6 @@
 ---
 title : "KNOW MORE <br> ABOUT PROJECT"
-image : "images/backgrounds/portrait.jpg"
+image : "images/backgrounds/portrait.webp"
 # button
 button:
   enable : true
