@@ -1,5 +1,5 @@
 ---
-title : "KNOW MORE <br> ABOUT PROJECT"
+title : "WHAT IS <br> MEDIEVAL MEMES"
 image : "images/backgrounds/portrait.webp"
 # button
 button:
