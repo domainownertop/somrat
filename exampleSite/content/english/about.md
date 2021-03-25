@@ -16,19 +16,19 @@ experience:
     - name : "Crypto Edition"
       company : "Release Date"
       duration : "April 2021"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+      content : ""
 
     # experience item loop
     - name : "Gaming Edition"
       company : "Release Date"
       duration : "June 2021"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+      content : ""
 
     # experience item loop
     - name : "Random Edition"
       company : "Release Date"
       duration : "July 2021"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+      content : ""
 
 ############################### Skill #################################
 skill:
