@@ -20,15 +20,6 @@
       <div class="col-lg-8 col-lg-offset-2 col-sm-8 col-sm-offset-2 head-container">
         <div class="head-holder">
           <h1 class="introduction">{{ .Title | markdownify | emojify }}</h1>
-          <div class="animated-text">
-            <strong class="cd-headline clip">
-              <span class="cd-words-wrapper">
-                {{ range $index, $elements:= .Params.occupations }}
-                <b {{ if eq $index 0 }} class="is-visible" {{ end }}>{{ . }}</b>
-                {{ end }}
-              </span>
-            </strong>
-          </div>
           {{ with .Params.button }}
           {{ if .enable }}
           <a class="hireMe" href="{{ .link | relURL}}">{{ .label }}</a>
