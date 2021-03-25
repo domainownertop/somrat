@@ -76,18 +76,6 @@ enable = true
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 ############################# social site ########################
-[[params.social]]
-icon = "fab fa-twitter"
-link = "https://twitter.com/somratpro"
-
-[[params.social]]
-icon = "fab fa-instagram"
-link = "https://www.instagram.com/somratpro"
-
-[[params.social]]
-icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/somratpro"
-
 
 ################################### English language #####################################
 [Languages.en]
