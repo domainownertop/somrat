@@ -58,4 +58,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Medievalmemes.co is a funny collection of free memes on Wax Blockchain. Focused on scarcity, there's a supply of 1000 NFT’s of each piece.
+Medieval Memes is a funny collection of free memes on Wax Blockchain. Focused on scarcity, there's a supply of 1000 NFT’s of each piece.
