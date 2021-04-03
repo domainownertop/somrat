@@ -68,11 +68,6 @@ logo_width = "150px"
 # Meta data
 description = "Medieval Memes is a funny collection of memes on Wax blockchain. Focused on scarcity, there’s a supply of 1000 nft of each piece."
 
-# Preloader
-[params.preloader]
-enable = true
-preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
-
 ############################# social site ########################
 [[params.social]]
 icon = "fab fa-twitter"
