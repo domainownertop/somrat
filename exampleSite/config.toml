@@ -71,9 +71,21 @@ description = "Medieval Memes is a funny collection of memes on Wax blockchain. 
 # Preloader
 [params.preloader]
 enable = true
-preloader = "images/giphy.gif" # use jpg, png, svg or gif format.
+preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 ############################# social site ########################
+[[params.social]]
+icon = "fab fa-twitter"
+link = "https://twitter.com/somratpro"
+
+[[params.social]]
+icon = "fab fa-medium"
+link = "https://medium.com/@medievalmemes"
+
+[[params.social]]
+icon = "fab fa-telegram"
+link = "https://t.me/medievalmemesnft"
+
 
 ################################### English language #####################################
 [Languages.en]
