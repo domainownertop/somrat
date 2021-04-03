@@ -71,7 +71,7 @@ description = "Medieval Memes is a funny collection of memes on Wax blockchain. 
 ############################# social site ########################
 [[params.social]]
 icon = "fab fa-twitter"
-link = "https://twitter.com/somratpro"
+link = "https://twitter.com/memes_medieval"
 
 [[params.social]]
 icon = "fab fa-medium"

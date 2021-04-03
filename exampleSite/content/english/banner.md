@@ -1,14 +1,14 @@
 ---
-title : "This is not Matrix. This is Medieval Memes."
+title : "Welcome to Medieval Memes"
 # full screen navigation
 first_name : ""
 last_name : ""
 bg_image : "images/backgrounds/full-nav-bg.webp"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Graphic Designer"
-- "Database Manager"
+- ""
+- ""
+- ""
 
 # slider background image loop
 slider_images:
@@ -19,7 +19,7 @@ slider_images:
 # button
 button:
   enable : true
-  label : "COLLECTIONS"
+  label : "SEE COLLECTIONS"
   link : "#portfolio"
 
 
