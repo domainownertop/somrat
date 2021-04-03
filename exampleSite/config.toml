@@ -71,7 +71,7 @@ description = "Medieval Memes is a funny collection of memes on Wax blockchain. 
 # Preloader
 [params.preloader]
 enable = true
-preloader = "images/preloader2.gif" # use jpg, png, svg or gif format.
+preloader = "images/giphy.gif" # use jpg, png, svg or gif format.
 
 ############################# social site ########################
 
@@ -83,7 +83,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2021 [medievalmemes.co](https://somrat.netlify.com)"
+copyright = "Copyright &copy; 2021 [medievalmemes.co](https://medievalmemes.co)"
 
 
 ################# english navigation ##################
