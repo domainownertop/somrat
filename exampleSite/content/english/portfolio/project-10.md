@@ -5,5 +5,5 @@ image: "images/portfolio/1.webp"
 categories: ["crypto"]
 description: "Crypto Rules"
 draft: false
-link_medieval: https://www.medievalmemes.co
+link_medieval: https://www.google.es
 ---
