@@ -66,7 +66,7 @@ logo_light = ""
 logo_dark = ""
 logo_width = "150px"
 # Meta data
-description = "Medieval Memes is a funny collection of memes on Wax blockchain. Focused on scarcity, there’s a supply of 1000 nft of each piece."
+description = "Medieval Memes is a funny collection of memes on Wax blockchain. Focused on ultimate scarcity, there’s a supply of 1000 nft of each piece."
 
 ############################# social site ########################
 [[params.social]]
