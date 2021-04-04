@@ -1726,7 +1726,7 @@ textarea.form-control::-webkit-input-placeholder,
   left: 0;
   right: 0;
   text-align: center;
-  color: #fff;
+  color: #000000;
 }
 
 .content.text-white * {
