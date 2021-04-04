@@ -240,6 +240,7 @@
                 <h2 class="mt-2"><a class="text-white" href="{{.Permalink}}">{{ .Title | markdownify }}</a></h2>
                 {{ range .Params.categories }}
                 <p class="mb-0 text-light">{{ . | title }}</p>
+                <a href="{{ .Params.link | safeURL }}" button class="btn btn-primary">Buy</a>
                 {{ end }}
               </div>
             </div>
