@@ -241,10 +241,10 @@
                 {{ range .Params.categories }}
                 <p class="mb-0 text-light">{{ . | title }}</p>
                 {{ end }}
-              </div>
                <div class="item-created text-light">{{ .PublishDate.Format "02 Jan, 06" }}</div>
+              </div>
             </div>
-<a href="{{ .Params.Link }}" rel="noopener" rel="nofollow" target="_blank" button class="btn btn-primary">Get It</a>
+          <a href="{{ .Params.Link }}" rel="noopener" rel="nofollow" target="_blank" button class="btn btn-primary">Get It</a>
           </div>
           {{ end }}
         </div>
