@@ -27,7 +27,7 @@ experience:
     # experience item loop
     - name : "Random Edition"
       company : "Release Date:"
-      duration : "July 2021"
+      duration : "September 2021"
       content : ""
 
 ############################### Skill #################################
@@ -58,4 +58,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Medieval Memes is a funny collection of memes on Wax Blockchain. Focused on scarcity, there's a supply of 1000 NFT’s of each piece.
+Medieval Memes is a funny collection of memes on Wax Blockchain. Focused on ultimate scarcity, there's a supply of 1000 NFT’s of each piece.
