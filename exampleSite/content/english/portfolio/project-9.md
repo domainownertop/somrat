@@ -1,6 +1,6 @@
 ---
 title: "The Weird Soldier"
-date: 2021-05-01T18:00:00+02:00
+date: 2020-04-13T12:14:34+06:00
 image: "images/portfolio/2.webp"
 categories: ["crypto"]
 description: "Crypto Rules"
