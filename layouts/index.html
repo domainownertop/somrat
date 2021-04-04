@@ -240,8 +240,8 @@
                 <h2 class="mt-2"><a class="text-white" href="{{.Permalink}}">{{ .Title | markdownify }}</a></h2>
                 {{ range .Params.categories }}
                 <p class="mb-0 text-light">{{ . | title }}</p>
+                <div class="item-created text-light">{{ .PublishDate.Format "02 Jan, 06" }}</div>
                 {{ end }}
-              <div class="item-created text-light">{{ .PublishDate.Format "02 Jan, 06" }}</div>
               </div>
                <a href="{{ .Params.Link }}" rel="noopener" rel="nofollow" target="_blank" button class="btn btn-primary">Buy</a>
             </div>
