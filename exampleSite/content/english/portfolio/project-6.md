@@ -1,12 +1,9 @@
 ---
 title: "PoS vs PoW"
 date: 2020-04-10T12:14:34+06:00
-image: "images/portfolio/5.webp"
+image: "images/portfolio/coming_soon.webp"
 categories: ["crypto"]
 description: "PoS vs PoW"
 draft: false
-project_info:
-- name: "PoS vs PoW"
-  icon: "fas fa-link"
-  content: "https://wax.atomichub.io/creator/collection/medievalmeme"
+link: https://www.medievalmemes.co
 ---

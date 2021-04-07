@@ -1,12 +1,9 @@
 ---
 title: "Reward"
 date: 2020-04-09T12:14:34+06:00
-image: "images/portfolio/6.webp"
+image: "images/portfolio/coming_soon.webp"
 categories: ["crypto"]
 description: "Reward"
 draft: false
-project_info:
-- name: "Reward"
-  icon: "fas fa-link"
-  content: "https://wax.atomichub.io/creator/collection/medievalmeme"
+link: https://www.medievalmemes.co
 ---

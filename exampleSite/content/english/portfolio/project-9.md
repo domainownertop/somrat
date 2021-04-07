@@ -1,9 +1,9 @@
 ---
 title: "The Weird Soldier"
 date: 2020-04-13T12:14:34+06:00
-image: "images/portfolio/2.webp"
+image: "images/portfolio/coming_soon.webp"
 categories: ["crypto"]
-description: "Crypto Rules"
+description: "The Weird Guy"
 draft: false
-link: https://www.google.es
+link: https://www.medievalmemes.co
 ---
