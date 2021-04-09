@@ -4,7 +4,7 @@ image : "images/backgrounds/portrait.webp"
 # button
 button:
   enable : true
-  label : "Collection Verified by Atomic Assets"
+  label : "Collection Whitelisted by Atomic Assets"
   link : "https://wax.atomichub.io/explorer/collection/medievlmemes"
 
 ########################### Experience ##############################
