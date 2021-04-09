@@ -4,8 +4,8 @@ image : "images/backgrounds/portrait.webp"
 # button
 button:
   enable : true
-  label : "Buy on Atomic Market"
-  link : "https://wax.atomichub.io/creator/collection/medievlmemes"
+  label : "Collection Verified by Atomic Assets"
+  link : "https://wax.atomichub.io/explorer/collection/medievlmemes"
 
 ########################### Experience ##############################
 experience:
