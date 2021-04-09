@@ -5,5 +5,5 @@ image: "images/portfolio/1.webp"
 categories: ["crypto"]
 description: "Crypto Rules"
 draft: false
-link: https://www.medievalmemes.co
+link: https://wax.atomichub.io/drops/16803
 ---
