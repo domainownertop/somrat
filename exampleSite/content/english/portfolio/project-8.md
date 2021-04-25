@@ -5,5 +5,5 @@ image: "images/portfolio/3.webp"
 categories: ["crypto"]
 description: "Crypto Wars"
 draft: false
-link: https://www.medievalmemes.co
+link: https://wax.atomichub.io/drops/25419+25420
 ---

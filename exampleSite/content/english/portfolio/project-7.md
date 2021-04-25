@@ -5,5 +5,5 @@ image: "images/portfolio/4.webp"
 categories: ["crypto"]
 description: "Fight Club"
 draft: false
-link: https://www.medievalmemes.co
+link: https://wax.atomichub.io/drops/25419+25420
 ---
